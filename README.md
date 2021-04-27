@@ -2,6 +2,8 @@
 
 # Rogue Ophidian
 
+![Main Menu Image](/img/main_menu.jpg)
+
 This game was created to be similar to the 1976 arcade game Blockade. It is meant to be a clone of the game 'Snake,' and has several rules.
 ## Prerequisites
 *This game requires python3.7 or greater to work properly*. Additional prerequisites are placed within the 'requirements.txt' file, which can be accessed by using the following command from the same directory:
@@ -23,6 +25,8 @@ python snake.py
  * This game makes use of art from [Westeh!](http://www.deviantart.com/twowestex), an artist who was inspired by my game and wanted to help in its development. He has given me permission to use his art in my game, and has made the art specifically to be used in my game.
  * Special thanks to MadMasterGamer for being the lead game tester and providing ['quality' feedback](#reported-bugs).
  * This game makes use of [pylint](https://www.pylint.org/) to conform to [PEP-8](https://www.python.org/dev/peps/pep-0008).
+
+![Main Menu Image](/img/credits.jpg)
 
 ## Features
 This game makes use of graphics in order to display the game 'Rogue Ophidian,' a snake clone (see [bugs](#reported-bugs) for unconfirmed issues involving graphical glitches).
